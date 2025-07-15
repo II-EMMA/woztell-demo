@@ -62,7 +62,6 @@ export default function Projects() {
         <p className="text-center text-base font-inter leading-6 font-secondary-gray">
           Featured by
         </p>
-
         <Image
           src="https://woztell.com/wp-content/uploads/2025/04/meta.png"
           alt="hero section image"
