@@ -54,7 +54,7 @@ const cardsInfo = [
 
 export default function Projects() {
   return (
-    <section className="flex flex-col items-center justify-center max-w-[1500px] mx-auto pt-14 px-20 gap-y-16">
+    <section className="flex flex-col items-center justify-center max-w-[1500px] mx-auto pt-24 px-20 md:-mb-48 py-40 gap-y-16">
       <div className="self-center flex flex-col gap-y-1">
         <h2 className="text-center font-primary-gray text-3xl font-mont leading-8 ">
           Some of <span className="font-extrabold">our projects</span>

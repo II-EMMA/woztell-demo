@@ -61,7 +61,7 @@ const textArray = [
 export default function Footer() {
   return (
     <footer className="flex flex-col justify-between gap-y-4 py-10 bg-dark-gray full-bleed-dark-gray max-w-[1400px] mx-auto px-20">
-      <div className="flex flex-row justify-between items-center pb-14">
+      <div className="flex md:flex-row flex-col md:gap-y-0 gap-y-6 -mb-5 md:mb-0 md:justify-between justify-center items-center pb-14">
         <Link href={"./"}>
           <img
             className="max-w-[206px] max-h-[34px]"
