@@ -15,6 +15,7 @@ export default function page() {
               "https://platform.woztell.com/assets/68fb2f2d0cd277d13966.png"
             }
           >
+            
             <img
               className="max-w-[181px] max-h-[181px]"
               src="https://platform.woztell.com/assets/68fb2f2d0cd277d13966.png"
